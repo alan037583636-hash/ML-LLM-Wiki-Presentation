@@ -54,3 +54,17 @@ PDF 改名為 lecture-01～05；AGENTS.md 更新命名與原章號對照（習�
   - [[mixture-density-networks]]: 逆問題與多峰條件分布、混合密度網路 (MDN) 架構、參數約束、負對數概似三組前激活梯度公式、預測分布與條件眾數
 - 更新 [[index]]: 加入 Ch6 的 6 篇新 Markdown 頁面。
 - 遵循策略規範：完全跳過課後習題與程式碼實作。
+
+
+## [2026-11-11] ingest | ch07 梯度下降 (核心觀念與推導)
+- 來源: raw/ch07-gradient-descent.pdf (Bishop 2024 Ch7, 18頁)
+- 建立 source 頁: [[ch07-gradient-descent]]
+- 建立 concepts 頁面:
+  - [[error-surfaces-and-geometry]]: 駐點一階條件、鞍點幾何優勢、泰勒二階展開、Hessian 實對稱特徵分解正交解耦、正定性判別、病態條件數 $\kappa$ 與等價局部極小值 ($M! 2^M$)
+  - [[gradient-descent-and-initialization]]: 梯度計算複雜度對比 ($\mathcal{O}(W)$ vs $\mathcal{O}(W^2)$ vs $\mathcal{O}(W^3)$)、BGD/SGD/Mini-batch 的 $\sigma/\sqrt{B}$ 與 GPU 吞吐權衡、全零初始化對稱崩潰、He (Kaiming) 初始化針對 ReLU 方差守恆嚴格推導 $\sigma_w^2 = 2/D_{\text{in}}$
+  - [[momentum-and-adaptive-optimizers]]: 二次誤差曲面收斂因子 $(1 - \eta \lambda_i)$ 與學習率上限 $\eta < 2/\lambda_{\max}$、古典動量與 Nesterov 加速動量 (NAG)、學習率排程與預熱、AdaGrad 累積平方梯度、RMSProp 指數移動平均、Adam 一階與二階動量偏差修正無偏推導
+  - [[normalization-techniques]]: 輸入特徵標準化對重塑 Hessian 條件數之幾何效果、批次正規化 (BatchNorm) 訓練期小批次統計與可學習仿射參數、推論期指數移動平均 (EMA)、層正規化 (LayerNorm) 與張量切片軸對比
+- 建立 comparisons 頁面:
+  - [[optimization-algorithms-comparison]]: SGD、Momentum、AdaGrad、RMSProp、Adam 的更新式、記憶體開銷、鞍點逃離能力與適用場景橫向比較表與演進樹
+- 更新 [[index]]: 加入 Ch7 的 6 篇新 Markdown 頁面。
+- 遵循策略規範：完全跳過課後習題與程式碼實作。

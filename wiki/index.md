@@ -11,6 +11,7 @@ updated: 2026-11-11
 - [[ch04-single-layer-regression]] — 第 4 章 單層網路：迴歸 (Bishop 2024 Ch4)
 - [[ch05-single-layer-classification]] — 第 5 章 單層網路：分類 (Bishop 2024 Ch5)
 - [[ch06-deep-neural-networks]] — 第 6 章 深度神經網路 (Bishop 2024 Ch6)
+- [[ch07-gradient-descent]] — 第 7 章 梯度下降 (Bishop 2024 Ch7)
 
 ## Concepts
 - [[learning-paradigms]] — 三種學習典範（監督式、非監督式、自監督式）(Ch1)
@@ -41,6 +42,10 @@ updated: 2026-11-11
 - [[deep-representations-and-transfer-learning]] — 深度分散式表徵、階層式特徵、遷移/元學習、InfoNCE與CLIP (Ch6)
 - [[error-functions-and-output-units]] — 最大概似下誤差函數與輸出單元的典則配對與極簡前激活梯度 (Ch6)
 - [[mixture-density-networks]] — 逆問題多峰條件分布、混合密度網路 (MDN) 參數化與負對數概似梯度 (Ch6)
+- [[error-surfaces-and-geometry]] — 誤差曲面幾何、泰勒二次展開、Hessian 特徵分解、鞍點與條件數 (Ch7)
+- [[gradient-descent-and-initialization]] — BGD/SGD/Mini-batch、梯度複雜度對比、對稱性打破與 He/Xavier 初始化推導 (Ch7)
+- [[momentum-and-adaptive-optimizers]] — 二次收斂界限、動量法、Nesterov、學習率排程、AdaGrad/RMSProp 到 Adam 的偏差修正 (Ch7)
+- [[normalization-techniques]] — 輸入資料標準化、批次正規化 (BatchNorm) 訓練與推論、層正規化 (LayerNorm) 與張量切片幾何 (Ch7)
 
 ## Algorithms
 - [[least-squares-normal-equations]] — 最小平方法與正規方程求解 (Ch1)
@@ -50,6 +55,7 @@ updated: 2026-11-11
 ## Comparisons
 - [[supervised-vs-unsupervised-vs-self-supervised]] — 監督式 vs 非監督式 vs 自監督式學習對照表 (Ch1)
 - [[three-eras-of-neural-networks]] — 神經網路發展三階段比較表 (Ch1)
+- [[optimization-algorithms-comparison]] — 最佳化演算法綜合比較表（SGD、Momentum、AdaGrad、RMSProp、Adam）(Ch7)
 
 ## Queries
 （尚無）
