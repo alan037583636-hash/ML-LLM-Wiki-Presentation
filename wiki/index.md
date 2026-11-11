@@ -9,6 +9,7 @@ updated: 2026-11-11
 ## Sources
 - [[ch01-deep-learning-revolution]] — 第 1 章 深度學習革命 (Bishop 2024 Ch1)
 - [[ch04-single-layer-regression]] — 第 4 章 單層網路：迴歸 (Bishop 2024 Ch4)
+- [[ch05-single-layer-classification]] — 第 5 章 單層網路：分類 (Bishop 2024 Ch5)
 
 ## Concepts
 - [[learning-paradigms]] — 三種學習典範（監督式、非監督式、自監督式）(Ch1)
@@ -28,6 +29,12 @@ updated: 2026-11-11
 - [[multiple-output-regression]] — 多重輸出迴歸與矩陣偽反解耦性質 (Ch4)
 - [[decision-theory-regression]] — 迴歸決策論：推論vs決策、期望平方損失、條件期望值與 Minkowski 損失 (Ch4)
 - [[bias-variance-tradeoff]] — 偏差–變異權衡與分解推導 (Ch4)
+- [[classification-approaches]] — 分類問題的三種取徑（判別函數、生成式、判別式）(Ch5)
+- [[linear-discriminant-functions]] — 線性判別函數的幾何與最小平方分類的限制 (Ch5)
+- [[decision-theory-classification]] — 分類的決策論與效能評估（混淆矩陣、ROC/AUC）(Ch5)
+- [[generative-classifiers]] — 生成式分類器（高斯條件密度、LDA/QDA、樸素貝氏）(Ch5)
+- [[discriminative-classifiers-logistic-regression]] — 判別式分類器：邏輯迴歸與 Softmax 迴歸 (Ch5)
+- [[probit-regression-canonical-link]] — Probit 迴歸與典則連結函數理論 (Ch5)
 
 ## Algorithms
 - [[least-squares-normal-equations]] — 最小平方法與正規方程求解 (Ch1)

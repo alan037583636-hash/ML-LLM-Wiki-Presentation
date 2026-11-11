@@ -28,3 +28,16 @@ PDF 改名為 lecture-01～05；AGENTS.md 更新命名與原章號對照（習�
 
 ## [2026-11-11] schema | 調整匯入規範（簡化習題與實作）
 - 依使用者指示更新 AGENTS.md：因運算資源有限，後續所有講義匯入完全忽略且跳過「課後習題」、「解答推導」與「程式碼實作」，專注擷取各章的核心觀念、名詞解釋與數學公式。
+
+## [2026-11-11] ingest | ch05 單層網路：分類 (核心觀念與推導)
+- 來源: raw/ch05-single-layer-classification.pdf (Bishop 2024 Ch5, 28頁)
+- 建立 source 頁: [[ch05-single-layer-classification]]
+- 建立 concepts 頁面:
+  - [[classification-approaches]]: 分類問題的三種取徑比較、地圖與保留後驗機率的好處
+  - [[linear-discriminant-functions]]: 兩類與多類線性判別函數幾何、凸決策區域、最小平方分類的不穩健性
+  - [[decision-theory-classification]]: 最小錯誤率、損失矩陣、拒絕選項、混淆矩陣、精確率/召回率、ROC 與 AUC
+  - [[generative-classifiers]]: 邏輯 S 形與 Softmax 由來、高斯類別條件密度推導、LDA/QDA、樸素貝氏與指數族
+  - [[discriminative-classifiers-logistic-regression]]: 邏輯迴歸與二元交叉熵、多類別 Softmax 迴歸、極簡梯度推導、線性可分過度擬合
+  - [[probit-regression-canonical-link]]: 隨機雜訊閾值模型、Probit 迴歸、典則連結函數理論與三組天生一對
+- 更新 [[index]]: 加入 Ch5 的 7 篇新 Markdown 頁面。
+- 遵循策略規範：完全跳過課後習題與程式碼實作。
