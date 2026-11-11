@@ -30,17 +30,17 @@ llm-wiki-project/
 
 ## 2. 初始來源（raw/）
 
-原檔名已統一重新命名，章號沿用講義原章號（習題以章號稱呼，如「第一章習題 11」）。
+原檔名已統一重新命名為連號 lecture-01～lecture-05。講義**原章號**（Ch1、4、5、6、7）另列於表中；習題一律以講義原章號稱呼（如「第一章習題 11」、「第六章習題 15」），wiki 檔名則用 lecture 編號。
 
-| 檔案 | 章 | 主題 | source 頁 |
+| 檔案 | 原章號 | 主題 | source 頁 |
 |---|---|---|---|
-| `ch01-deep-learning-revolution.pdf` | 1 | 深度學習革命 (Deep Learning Revolution) | `sources/ch01-deep-learning-revolution.md` |
-| `ch04-single-layer-regression.pdf` | 4 | 單層網路：迴歸 (Single-Layer Regression) | `sources/ch04-single-layer-regression.md` |
-| `ch05-single-layer-classification.pdf` | 5 | 單層網路：分類 (Single-Layer Classification) | `sources/ch05-single-layer-classification.md` |
-| `ch06-deep-neural-networks.pdf` | 6 | 深度神經網路 (Deep Neural Networks) | `sources/ch06-deep-neural-networks.md` |
-| `ch07-gradient-descent.pdf` | 7 | 梯度下降 (Gradient Descent) | `sources/ch07-gradient-descent.md` |
+| `lecture-01-deep-learning-revolution.pdf` | 1 | 深度學習革命 (Deep Learning Revolution) | `sources/lecture-01-deep-learning-revolution.md` |
+| `lecture-02-single-layer-regression.pdf` | 4 | 單層網路：迴歸 (Single-Layer Regression) | `sources/lecture-02-single-layer-regression.md` |
+| `lecture-03-single-layer-classification.pdf` | 5 | 單層網路：分類 (Single-Layer Classification) | `sources/lecture-03-single-layer-classification.md` |
+| `lecture-04-deep-neural-networks.pdf` | 6 | 深度神經網路 (Deep Neural Networks) | `sources/lecture-04-deep-neural-networks.md` |
+| `lecture-05-gradient-descent.pdf` | 7 | 梯度下降 (Gradient Descent) | `sources/lecture-05-gradient-descent.md` |
 
-注意：講義章號不連續（缺 2、3），不要自行假設或補造缺漏章節；若內容引用到未提供的章節，標註「（講義引用，未提供）」。
+注意：原章號不連續（缺第 2、3 章），不要自行假設或補造缺漏章節；若內容引用到未提供的章節，標註「（講義引用，未提供）」。
 
 ## 3. 語言與命名
 
@@ -58,7 +58,7 @@ llm-wiki-project/
 title: 梯度下降 (Gradient Descent)
 type: concept | algorithm | comparison | source | query | overview
 tags: [optimization, training]
-sources: [ch07-gradient-descent]     # 用到的 source 頁檔名
+sources: [lecture-05-gradient-descent]     # 用到的 source 頁檔名
 created: 2026-11-11
 updated: 2026-11-11
 ---
@@ -69,7 +69,7 @@ updated: 2026-11-11
 - **標記來源性質**（每段／每條要點都要能分辨）：
   - `📌講義`：直接來自講義內容。
   - `💡補充`：agent 補充（外部知識、推導、網路資料、額外程式碼），須明確可辨識。
-- **引用格式（必填）**：`📌講義` 內容結尾標註 `(來源: [[ch07-gradient-descent]], p.15)`，頁碼為 PDF 頁碼；若講義頁碼與 PDF 頁碼不同，兩者並註。無法確認頁碼時寫 `p.?` 並回報使用者，不得捏造。
+- **引用格式（必填）**：`📌講義` 內容結尾標註 `(來源: [[lecture-05-gradient-descent]], p.15)`，頁碼為 PDF 頁碼；若講義頁碼與 PDF 頁碼不同，兩者並註。無法確認頁碼時寫 `p.?` 並回報使用者，不得捏造。
 - **矛盾處理**：講義之間或與標準教材不一致時，在該頁加 `> [!warning] 差異` 區塊，並列各說法與出處，**不自行裁決**，並記入 log。
 - **Python 範例**：可使用講義內容，也可補充常見 NumPy／scikit-learn 範例（補充者標 `💡補充`）。講義習題的 NumPy 實作要求（如第一章習題 11、第六章習題 15）在對應概念頁提供範例，註明對應習題。程式碼須可執行、附簡短說明。
 - **每個 concept／algorithm 頁尾**必須有 `## 自我測驗 Q&A`，3–5 題，答案用 `> [!answer]-` 折疊區塊。
@@ -85,7 +85,7 @@ updated: 2026-11-11
 ## 5. 圖表與 assets
 
 - 重要圖表為日後 HTML 簡報準備：優先以 **SVG／HTML 重繪**；無法重繪時才從 PDF 擷取 PNG。
-- 路徑：`assets/<chapter>/<descriptive-name>.svg|png`，如 `assets/ch07/gradient-descent-contour.svg`。
+- 路徑：`assets/<lecture>/<descriptive-name>.svg|png`，如 `assets/lecture-05/gradient-descent-contour.svg`。
 - Wiki 頁中以相對路徑引用並附圖說與來源頁碼（擷取或重繪皆標註原講義位置）。
 
 ## 6. 工作流程
@@ -115,7 +115,7 @@ updated: 2026-11-11
 ## 8. Git 與發布
 
 - 專案已 `git init`。每次 ingest、query 存檔、lint、schema 變更後**自動 commit**，不需再詢問。
-- Commit 訊息：`ingest: ch07 梯度下降`、`query: ...`、`lint: ...`、`schema: ...`。
+- Commit 訊息：`ingest: lecture-05 梯度下降`、`query: ...`、`lint: ...`、`schema: ...`。
 - 不 push、不改遠端，除非使用者明確要求。
 - 後續目標：將 wiki 內容與 `assets/` 轉為教學型 HTML 簡報，發布至 GitHub Pages（發布設定屆時再與使用者討論）。
 
