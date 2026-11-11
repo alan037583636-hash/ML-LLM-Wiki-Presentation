@@ -10,6 +10,7 @@ updated: 2026-11-11
 - [[ch01-deep-learning-revolution]] — 第 1 章 深度學習革命 (Bishop 2024 Ch1)
 - [[ch04-single-layer-regression]] — 第 4 章 單層網路：迴歸 (Bishop 2024 Ch4)
 - [[ch05-single-layer-classification]] — 第 5 章 單層網路：分類 (Bishop 2024 Ch5)
+- [[ch06-deep-neural-networks]] — 第 6 章 深度神經網路 (Bishop 2024 Ch6)
 
 ## Concepts
 - [[learning-paradigms]] — 三種學習典範（監督式、非監督式、自監督式）(Ch1)
@@ -35,6 +36,11 @@ updated: 2026-11-11
 - [[generative-classifiers]] — 生成式分類器（高斯條件密度、LDA/QDA、樸素貝氏）(Ch5)
 - [[discriminative-classifiers-logistic-regression]] — 判別式分類器：邏輯迴歸與 Softmax 迴歸 (Ch5)
 - [[probit-regression-canonical-link]] — Probit 迴歸與典則連結函數理論 (Ch5)
+- [[curse-of-dimensionality-data-manifold]] — 維度災難、高維幾何與資料流形假設 (Ch6)
+- [[multilayer-feedforward-networks]] — 多層前饋網路矩陣形式、激活函數族譜、通用近似定理與權重對稱性 (Ch6)
+- [[deep-representations-and-transfer-learning]] — 深度分散式表徵、階層式特徵、遷移/元學習、InfoNCE與CLIP (Ch6)
+- [[error-functions-and-output-units]] — 最大概似下誤差函數與輸出單元的典則配對與極簡前激活梯度 (Ch6)
+- [[mixture-density-networks]] — 逆問題多峰條件分布、混合密度網路 (MDN) 參數化與負對數概似梯度 (Ch6)
 
 ## Algorithms
 - [[least-squares-normal-equations]] — 最小平方法與正規方程求解 (Ch1)

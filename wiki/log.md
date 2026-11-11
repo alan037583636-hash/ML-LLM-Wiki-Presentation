@@ -41,3 +41,16 @@ PDF 改名為 lecture-01～05；AGENTS.md 更新命名與原章號對照（習�
   - [[probit-regression-canonical-link]]: 隨機雜訊閾值模型、Probit 迴歸、典則連結函數理論與三組天生一對
 - 更新 [[index]]: 加入 Ch5 的 7 篇新 Markdown 頁面。
 - 遵循策略規範：完全跳過課後習題與程式碼實作。
+
+
+## [2026-11-11] ingest | ch06 深度神經網路 (核心觀念與推導)
+- 來源: raw/ch06-deep-neural-networks.pdf (Bishop 2024 Ch6, 26頁)
+- 建立 source 頁: [[ch06-deep-neural-networks]]
+- 建立 concepts 頁面:
+  - [[curse-of-dimensionality-data-manifold]]: 維度災難、超球體積表面集中、高斯機率質量薄殼、RBF/SVM 局部泛化困境與資料流形假設
+  - [[multilayer-feedforward-networks]]: 多層前饋網路矩陣形式、激活函數族譜（Sigmoid/Tanh/ReLU/Softplus/Leaky ReLU）、通用近似定理與局限、權重空間對稱性 ($M! 2^M$)
+  - [[deep-representations-and-transfer-learning]]: 分散式表徵、階層式特徵抽象、遷移學習/線性探測/微調、多任務與元學習、對比式學習 InfoNCE 與 CLIP、DAG/張量
+  - [[error-functions-and-output-units]]: 最大概似視角下預測分布、輸出激活與損失函數的典則配對、極簡前激活梯度 $\frac{\partial E_n}{\partial a_k} = y_k - t_k$ 證明與抗梯度消失機制
+  - [[mixture-density-networks]]: 逆問題與多峰條件分布、混合密度網路 (MDN) 架構、參數約束、負對數概似三組前激活梯度公式、預測分布與條件眾數
+- 更新 [[index]]: 加入 Ch6 的 6 篇新 Markdown 頁面。
+- 遵循策略規範：完全跳過課後習題與程式碼實作。
