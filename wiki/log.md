@@ -68,3 +68,14 @@ PDF 改名為 lecture-01～05；AGENTS.md 更新命名與原章號對照（習�
   - [[optimization-algorithms-comparison]]: SGD、Momentum、AdaGrad、RMSProp、Adam 的更新式、記憶體開銷、鞍點逃離能力與適用場景橫向比較表與演進樹
 - 更新 [[index]]: 加入 Ch7 的 6 篇新 Markdown 頁面。
 - 遵循策略規範：完全跳過課後習題與程式碼實作。
+
+
+## [2026-11-11] schema | 發布教學型 HTML 簡報 (機器學習基礎與模型演進)
+- 依據確認之 19 頁大綱與 Graph 流程執行：
+  - Node 1: 檢索 Wiki 知識庫 (Ch1~Ch7 核心精華)
+  - Node 2: 規劃 19 頁教學投影片大綱，獨立建立「過度擬合 (Overfitting)」深度圖解頁
+  - Gate 1: 人機協同審查通過
+  - Node 3: 逐頁草稿生成，並執行 Gate 2 字數 (120~180 字)、條列 (<=4 項)、圖文比 (5:5) 防爆版自檢
+  - Loop 2: 針對 Slide 6~9 超長字數完成自動精煉重構並通過驗證
+  - Node 4: 整合產出單檔獨立執行之 `index.html`，封裝科技深色調樣式、KaTeX 數學公式引擎、19 幅原創幾何動態 SVG 圖表、鍵盤事件監聽與深入數學推導 Modal
+  - Gate 3: 終端技術驗證成功，簡報大小 142KB，具備自適應響應式容器防溢出機制。
