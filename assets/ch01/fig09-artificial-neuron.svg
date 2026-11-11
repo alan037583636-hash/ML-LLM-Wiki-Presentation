@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="349.2pt" height="209.557805pt" viewBox="0 0 349.2 209.557805" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-11T17:38:44.545099</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 209.557805 
+L 349.2 209.557805 
+L 349.2 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 66.72 57.803138 
+C 68.693111 57.803138 70.585674 57.110811 71.980874 55.878634 
+C 73.376075 54.646457 74.16 52.975033 74.16 51.232471 
+C 74.16 49.48991 73.376075 47.818485 71.980874 46.586308 
+C 70.585674 45.354132 68.693111 44.661805 66.72 44.661805 
+C 64.746889 44.661805 62.854326 45.354132 61.459126 46.586308 
+C 60.063925 47.818485 59.28 49.48991 59.28 51.232471 
+C 59.28 52.975033 60.063925 54.646457 61.459126 55.878634 
+C 62.854326 57.110811 64.746889 57.803138 66.72 57.803138 
+z
+" clip-path="url(#p83f383a12d)" style="fill: #ffffff; stroke: #1f6feb; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 66.72 101.826605 
+C 68.693111 101.826605 70.585674 101.134278 71.980874 99.902101 
+C 73.376075 98.669924 74.16 96.998499 74.16 95.255938 
+C 74.16 93.513377 73.376075 91.841952 71.980874 90.609775 
+C 70.585674 89.377598 68.693111 88.685271 66.72 88.685271 
+C 64.746889 88.685271 62.854326 89.377598 61.459126 90.609775 
+C 60.063925 91.841952 59.28 93.513377 59.28 95.255938 
+C 59.28 96.998499 60.063925 98.669924 61.459126 99.902101 
+C 62.854326 101.134278 64.746889 101.826605 66.72 101.826605 
+z
+" clip-path="url(#p83f383a12d)" style="fill: #ffffff; stroke: #1f6feb; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 66.72 189.216471 
+C 68.693111 189.216471 70.585674 188.524144 71.980874 187.291968 
+C 73.376075 186.059791 74.16 184.388366 74.16 182.645805 
+C 74.16 180.903244 73.376075 179.231819 71.980874 177.999642 
+C 70.585674 176.767465 68.693111 176.075138 66.72 176.075138 
+C 64.746889 176.075138 62.854326 176.767465 61.459126 177.999642 
+C 60.063925 179.231819 59.28 180.903244 59.28 182.645805 
+C 59.28 184.388366 60.063925 186.059791 61.459126 187.291968 
+C 62.854326 188.524144 64.746889 189.216471 66.72 189.216471 
+z
+" clip-path="url(#p83f383a12d)" style="fill: #ffffff; stroke: #1f6feb; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 230.4 131.394605 
+C 234.740844 131.394605 238.904483 129.871486 241.973924 127.160697 
+C 245.043364 124.449908 246.768 120.772773 246.768 116.939138 
+C 246.768 113.105503 245.043364 109.428369 241.973924 106.71758 
+C 238.904483 104.006791 234.740844 102.483671 230.4 102.483671 
+C 226.059156 102.483671 221.895517 104.006791 218.826076 106.71758 
+C 215.756636 109.428369 214.032 113.105503 214.032 116.939138 
+C 214.032 120.772773 215.756636 124.449908 218.826076 127.160697 
+C 221.895517 129.871486 226.059156 131.394605 230.4 131.394605 
+z
+" clip-path="url(#p83f383a12d)" style="fill: #ddf4ff; stroke: #1f6feb; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: end" x="40.68" y="55.914112" transform="rotate(-0 40.68 55.914112)">x1</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 75.976179 52.076664 
+Q 144.84315 84.087269 212.69626 115.626613 
+" style="fill: none; stroke: #6e7781; stroke-linecap: round"/>
+    <path d="M 209.63355 111.776962 
+L 212.69626 115.626613 
+L 207.778914 115.76699 
+" style="fill: none; stroke: #6e7781; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: end" x="40.68" y="99.937579" transform="rotate(-0 40.68 99.937579)">x2</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 76.14011 95.559667 
+Q 144.841108 106.097708 212.436997 116.466236 
+" style="fill: none; stroke: #6e7781; stroke-linecap: round"/>
+    <path d="M 208.42142 113.624557 
+L 212.436997 116.466236 
+L 207.754307 117.97369 
+" style="fill: none; stroke: #6e7781; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: end" x="40.68" y="143.303979" transform="rotate(-0 40.68 143.303979)">...</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: end" x="40.68" y="187.327445" transform="rotate(-0 40.68 187.327445)">xM</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 75.976179 181.801612 
+Q 144.84315 149.791007 212.69626 118.251663 
+" style="fill: none; stroke: #6e7781; stroke-linecap: round"/>
+    <path d="M 207.778914 118.111286 
+L 212.69626 118.251663 
+L 209.63355 122.101314 
+" style="fill: none; stroke: #6e7781; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #6e7781" x="126.24" y="54.517805" transform="rotate(-0 126.24 54.517805)">w1</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #6e7781" x="126.24" y="100.512471" transform="rotate(-0 126.24 100.512471)">w2</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #6e7781" x="126.24" y="172.789805" transform="rotate(-0 126.24 172.789805)">wM</text>
+   </g>
+   <g id="text_8">
+    <text style="font-style: italic; font-size: 13px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="230.4" y="122.010915" transform="rotate(-0 230.4 122.010915)">f</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 250.999182 116.939138 
+Q 276.899692 116.939138 301.234954 116.939138 
+" style="fill: none; stroke: #000000; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 296.834954 114.739138 
+L 301.234954 116.939138 
+L 296.834954 119.139138 
+" style="fill: none; stroke: #000000; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 13px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: start" x="312.24" y="121.071589" transform="rotate(-0 312.24 121.071589)">y</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="230.4" y="80.800471" transform="rotate(-0 230.4 80.800471)">a = Σ wi·xi</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="230.4" y="156.363138" transform="rotate(-0 230.4 156.363138)">y = f(a)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 13.2px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="174.6" y="18.949805" transform="rotate(-0 174.6 18.949805)">圖 9：單一神經元 a = Σ wi·xi，y = f(a)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p83f383a12d">
+   <rect x="7.2" y="24.949805" width="334.8" height="177.408"/>
+  </clipPath>
+ </defs>
+</svg>

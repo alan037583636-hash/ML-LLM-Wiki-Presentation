@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="566.534844pt" height="270.48477pt" viewBox="0 0 566.534844 270.48477" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-11T17:38:44.693040</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 270.48477 
+L 566.534844 270.48477 
+L 566.534844 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 35.574844 209.64 
+L 277.274844 209.64 
+L 277.274844 24.949805 
+L 35.574844 24.949805 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mf983f22852" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf983f22852" x="89.285955" y="209.64" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="89.285955" y="226.431504" transform="rotate(-0 89.285955 226.431504)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mf983f22852" x="223.563733" y="209.64" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="223.563733" y="226.431504" transform="rotate(-0 223.563733 226.431504)">1</text>
+     </g>
+    </g>
+    <g id="text_3">
+     <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="156.424844" y="241.431504" transform="rotate(-0 156.424844 241.431504)">x1</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <defs>
+       <path id="m8ce451a1e3" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8ce451a1e3" x="35.574844" y="168.597734" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: end" x="28.574844" y="173.493486" transform="rotate(-0 28.574844 173.493486)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m8ce451a1e3" x="35.574844" y="65.99207" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: end" x="28.574844" y="70.887822" transform="rotate(-0 28.574844 70.887822)">1</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="16.991504" y="117.294902" transform="rotate(-90 16.991504 117.294902)">x2</text>
+    </g>
+   </g>
+   <g id="line2d_5">
+    <path d="M 35.574844 50.601221 
+L 277.274844 235.291416 
+" clip-path="url(#p208346bbb8)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #6e7781"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 35.574844 209.64 
+L 35.574844 24.949805 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 35.574844 209.64 
+L 277.274844 209.64 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m24a6d7d69e" d="M 0 5.91608 
+C 1.568963 5.91608 3.073876 5.292724 4.1833 4.1833 
+C 5.292724 3.073876 5.91608 1.568963 5.91608 0 
+C 5.91608 -1.568963 5.292724 -3.073876 4.1833 -4.1833 
+C 3.073876 -5.292724 1.568963 -5.91608 0 -5.91608 
+C -1.568963 -5.91608 -3.073876 -5.292724 -4.1833 -4.1833 
+C -5.292724 -3.073876 -5.91608 -1.568963 -5.91608 0 
+C -5.91608 1.568963 -5.292724 3.073876 -4.1833 4.1833 
+C -3.073876 5.292724 -1.568963 5.91608 0 5.91608 
+z
+" style="stroke: #1f6feb"/>
+    </defs>
+    <g clip-path="url(#p208346bbb8)">
+     <use xlink:href="#m24a6d7d69e" x="89.285955" y="168.597734" style="fill: #1f6feb; stroke: #1f6feb"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p208346bbb8)">
+     <use xlink:href="#m24a6d7d69e" x="223.563733" y="65.99207" style="fill: #1f6feb; stroke: #1f6feb"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="mb43e912d8e" d="M 0 5.91608 
+C 1.568963 5.91608 3.073876 5.292724 4.1833 4.1833 
+C 5.292724 3.073876 5.91608 1.568963 5.91608 0 
+C 5.91608 -1.568963 5.292724 -3.073876 4.1833 -4.1833 
+C 3.073876 -5.292724 1.568963 -5.91608 0 -5.91608 
+C -1.568963 -5.91608 -3.073876 -5.292724 -4.1833 -4.1833 
+C -5.292724 -3.073876 -5.91608 -1.568963 -5.91608 0 
+C -5.91608 1.568963 -5.292724 3.073876 -4.1833 4.1833 
+C -3.073876 5.292724 -1.568963 5.91608 0 5.91608 
+z
+" style="stroke: #d1242f"/>
+    </defs>
+    <g clip-path="url(#p208346bbb8)">
+     <use xlink:href="#mb43e912d8e" x="89.285955" y="65.99207" style="fill: #d1242f; stroke: #d1242f"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p208346bbb8)">
+     <use xlink:href="#mb43e912d8e" x="223.563733" y="168.597734" style="fill: #d1242f; stroke: #d1242f"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 13.2px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="156.424844" y="18.949805" transform="rotate(-0 156.424844 18.949805)">單層感知器：任何一條直線都分不開</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 317.634844 209.64 
+L 559.334844 209.64 
+L 559.334844 24.949805 
+L 317.634844 24.949805 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mf983f22852" x="371.345955" y="209.64" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="371.345955" y="226.431504" transform="rotate(-0 371.345955 226.431504)">0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mf983f22852" x="505.623733" y="209.64" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="505.623733" y="226.431504" transform="rotate(-0 505.623733 226.431504)">1</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="438.484844" y="241.431504" transform="rotate(-0 438.484844 241.431504)">x1</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m8ce451a1e3" x="317.634844" y="168.597734" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: end" x="310.634844" y="173.493486" transform="rotate(-0 310.634844 173.493486)">0</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m8ce451a1e3" x="317.634844" y="65.99207" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: end" x="310.634844" y="70.887822" transform="rotate(-0 310.634844 70.887822)">1</text>
+     </g>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 11px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="299.051504" y="117.294902" transform="rotate(-90 299.051504 117.294902)">x2</text>
+    </g>
+   </g>
+   <g id="line2d_10">
+    <path d="M 317.634844 76.252637 
+L 344.490399 96.77377 
+L 371.345955 117.294902 
+L 398.20151 137.816035 
+L 425.057066 158.337168 
+L 451.912622 178.858301 
+L 478.768177 199.379434 
+L 505.623733 219.900566 
+L 532.479288 240.421699 
+L 559.334844 260.942832 
+" clip-path="url(#p2794ad4d97)" style="fill: none; stroke: #1a7f37; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 350.813793 -1 
+L 371.345955 14.689238 
+L 398.20151 35.210371 
+L 425.057066 55.731504 
+L 451.912622 76.252637 
+L 478.768177 96.77377 
+L 505.623733 117.294902 
+L 532.479288 137.816035 
+L 559.334844 158.337168 
+" clip-path="url(#p2794ad4d97)" style="fill: none; stroke: #d4a72c; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 317.634844 209.64 
+L 317.634844 24.949805 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 317.634844 209.64 
+L 559.334844 209.64 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p2794ad4d97)">
+     <use xlink:href="#m24a6d7d69e" x="371.345955" y="168.597734" style="fill: #1f6feb; stroke: #1f6feb"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p2794ad4d97)">
+     <use xlink:href="#m24a6d7d69e" x="505.623733" y="65.99207" style="fill: #1f6feb; stroke: #1f6feb"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#p2794ad4d97)">
+     <use xlink:href="#mb43e912d8e" x="371.345955" y="65.99207" style="fill: #d1242f; stroke: #d1242f"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#p2794ad4d97)">
+     <use xlink:href="#mb43e912d8e" x="505.623733" y="168.597734" style="fill: #d1242f; stroke: #d1242f"/>
+    </g>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 13.2px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle" x="438.484844" y="18.949805" transform="rotate(-0 438.484844 18.949805)">兩個隱藏單元：OR 與 AND 兩條線</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_12">
+     <path d="M 467.854844 36.470898 
+L 475.854844 36.470898 
+L 483.854844 36.470898 
+" style="fill: none; stroke: #1a7f37; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 8px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: start" x="490.254844" y="39.270898" transform="rotate(-0 490.254844 39.270898)">OR: x1+x2=0.5</text>
+    </g>
+    <g id="line2d_13">
+     <path d="M 467.854844 48.470898 
+L 475.854844 48.470898 
+L 483.854844 48.470898 
+" style="fill: none; stroke: #d4a72c; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 8px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: start" x="490.254844" y="51.270898" transform="rotate(-0 490.254844 51.270898)">AND: x1+x2=1.5</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 9px; font-family: 'Microsoft JhengHei', 'Noto Sans CJK TC', 'PingFang TC', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #6e7781" x="283.214844" y="262.296" transform="rotate(-0 283.214844 262.296)">紅 = 1，藍 = 0</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p208346bbb8">
+   <rect x="35.574844" y="24.949805" width="241.7" height="184.690195"/>
+  </clipPath>
+  <clipPath id="p2794ad4d97">
+   <rect x="317.634844" y="24.949805" width="241.7" height="184.690195"/>
+  </clipPath>
+ </defs>
+</svg>
